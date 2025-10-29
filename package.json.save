@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "gendiff": "bin/gendiff.js"
+    "gendiff": "./bin/gendiff.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,6 +27,40 @@
   "homepage": "https://github.com/Licoler/frontend-project-46#readme",
   "dependencies": {
     "commander": "^14.0.1"
-  },
-  "devDependencies": {}
+  }
 }
+^0
+
+x
+^X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^X
+X
+EXIT
+Exit
+
+
+
+
+
+
+
+
+
+
+
+
